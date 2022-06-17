@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import 
 
 func main() {
 	var n [3]int
